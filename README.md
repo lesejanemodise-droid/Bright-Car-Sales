@@ -6,17 +6,17 @@
  Market saw a significant rise in demand, with Ford leading the pack by capturing 19% of sales
  
 # **Tools used on this project**
-  **Figma** - I used it for planning the project.
+  **Figma** - *I used it for planning the project.*
   
-  **Snowflake** - Used it for coding and EDA.
+  **Snowflake** - *Used it for coding and EDA.*
   
-  **Power Point** - For Presentation of the project.
+  **Power Point** - *For Presentation of the project.*
   
-  **Google Looker Studio** - Used to create Graphs for the presentations.
+  **Google Looker Studio** - *Used to create Graphs for the presentations.*
   
-  **Winrar** - to zip my CSV File.
+  **Winrar** - *to zip my CSV File.*
   
-  **Power BI** - I created an interactive dashboard.
+  **Power BI** - *I created an interactive dashboard.*
  
 
 
