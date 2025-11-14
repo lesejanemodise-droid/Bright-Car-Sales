@@ -10,7 +10,7 @@
   
   **Snowflake** - *Used it for coding and EDA.*
   
-  **Power Point** - *For Presentation of the project.*
+  **Power Point** - *Creating Presentation of the project.*
   
   **Google Looker Studio** - *Used to create Graphs for the presentations.*
   
