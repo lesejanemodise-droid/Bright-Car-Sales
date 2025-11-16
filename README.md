@@ -5,7 +5,7 @@
  
  Market saw a significant rise in demand, with Ford leading the pack by capturing 19% of sales
  
-# **Tools used on this project**
+# **Tools used in a project**
   **Figma** - *I use it for visual thinking and communication platform for planning my project.*
   
   **Snowflake** - *Use it for coding and EDA. Also run complex queries and generate reports to answer project questions*
